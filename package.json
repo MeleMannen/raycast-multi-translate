@@ -4,7 +4,7 @@
   "title": "MultiTranslate",
   "private": true,
   "type": "module",
-  "packageManager": "pnpm@10.13.1",
+  "packageManager": "pnpm@9.12.3",
   "description": "Translates text to multiple languages at once",
   "author": "antfu",
   "license": "MIT",
@@ -3165,7 +3165,7 @@
     "prepare": "tsx scripts/prepare.ts"
   },
   "dependencies": {
-    "@iamtraction/google-translate": "^2.0.1",
+    "@iamtraction/google-translate": "^3.0.0",
     "@raycast/api": "^1.101.1",
     "@raycast/utils": "^2.2.0",
     "diff": "^8.0.2",
